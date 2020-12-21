@@ -1,0 +1,8 @@
+{
+  "numeroAt": "${numeroAt}",
+  "codigoServicioAutorizar": "${codigoServicioAutorizar}",
+  "cantidad": "${cantidad}",
+  "prestadorSolicitante": "${prestadorSolicitante}",
+  "prestadorRealizador": "${prestadorRealizador}",
+  "idUsuario": "${idUsuario}"
+}

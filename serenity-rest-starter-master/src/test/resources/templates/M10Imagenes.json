@@ -1,0 +1,13 @@
+{
+
+"tipoProceso":"${tipoProceso}",
+"numeroAtEp":"${numeroAtEp}",
+"blnAtEp":"${blnAtEp}",
+"fechaCarga":"${fechaCarga}",
+"observaciones":"${observaciones}",
+"idUsuario":"${idUsuario}",
+"adjuntos":[{
+"archivo":"${archivo}",
+"tipo":"${tipo}"
+}]
+}

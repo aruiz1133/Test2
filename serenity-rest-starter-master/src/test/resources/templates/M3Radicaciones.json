@@ -1,0 +1,27 @@
+{								
+  "tipoDocumentoAccidentado":"${tipoDocumentoAccidentado}",
+  "numeroDocumentoAccidentado":"${numeroDocumentoAccidentado}",
+  "numeroContratoCobertura":"${numeroContratoCobertura}",
+  "ciudadOcurrenciaAccidente":"${ciudadOcurrenciaAccidente}",
+  "descripcion":"${descripcion}",
+  "severidad":"${severidad}",
+  "codigoDiagnostico":"${codigoDiagnostico}",
+  "tipificacion":"${tipificacion}",
+  "origen":"${origen}",
+  "jornada":"${jornada}",
+  "agente":"${agente}",
+  "quienReporta":"${quienReporta}",
+  "horaFechaAccidente":"${horaFechaAccidente}",
+  "sitioOcurrencia":"${sitioOcurrencia}",
+  "marcacionHorarioAlmuerzo":"${marcacionHorarioAlmuerzo}",
+  "ladoEspecificoDelCuerpoAfectada":"${ladoEspecificoDelCuerpoAfectada}",
+  "mecanismo":"${mecanismo}",
+  "lesion":"${lesion}",
+  "procedimientoAUI":"${procedimientoAUI}",
+  "trabajoencasa":"${trabajoencasa}",
+  "riesgobiologico": "${riesgobiologico}",
+  "dentroEmpresa":"${dentroEmpresa}",
+  "idusuario": "${idusuario}",
+  "estadoLesion": ["${estadoLesion}"] 
+}								
+
